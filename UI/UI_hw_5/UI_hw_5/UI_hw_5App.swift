@@ -11,7 +11,7 @@ import SwiftUI
 struct UI_hw_5App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PrepareView()
         }
     }
 }
